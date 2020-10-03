@@ -1,0 +1,22 @@
+{
+  "name": "ashwin-narkar.github.io",
+  "version": "1.0.0",
+  "description": "mywebsite",
+  "main": "index.js",
+  "scripts": {
+    "start" : "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwin-narkar/ashwin-narkar.github.io.git"
+  },
+  "author": "ashwin narkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwin-narkar/ashwin-narkar.github.io/issues"
+  },
+  "homepage": "https://github.com/ashwin-narkar/ashwin-narkar.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
