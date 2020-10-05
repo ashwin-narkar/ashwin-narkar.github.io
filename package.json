@@ -4,7 +4,7 @@
   "description": "mywebsite",
   "main": "index.js",
   "scripts": {
-    "start" : "lite-server"
+    "start": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ashwin-narkar/ashwin-narkar.github.io#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "firebase": "^7.22.1"
   }
 }
